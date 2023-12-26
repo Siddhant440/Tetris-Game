@@ -1,16 +1,8 @@
-# tetris
+# Tetris by Siddhant Bisht
 
-A new Flutter project.
 
-## Getting Started
+Tetris, the iconic puzzle game, finds a vibrant digital home in Flutter, a versatile UI toolkit for building natively compiled applications. Flutter's flexibility and expressive design make it an ideal platform for recreating the engaging world of Tetris. Developers leverage Flutter's hot reload feature to iterate rapidly, enhancing the gaming experience.
 
-This project is a starting point for a Flutter application.
+With Flutter, Tetris enthusiasts can enjoy a seamless cross-platform experience, as Flutter supports both iOS and Android. The game's responsive design ensures optimal performance on devices of varying sizes, from smartphones to tablets.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter's widget-based architecture allows developers to create an interactive and visually appealing Tetris interface. Gamers can relish the familiar falling tetrominoes, smoothly navigating and rotating them with intuitive touch gestures.
